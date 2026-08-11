@@ -1,0 +1,8 @@
+# Juliet Eron — robots.txt
+# Domain in the Sitemap line below is a placeholder.
+# Replace with the real production domain before launch.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.julieteron.co.za/sitemap.xml
